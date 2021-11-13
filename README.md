@@ -6,6 +6,7 @@ Key to this app is to automatically download the bank transactions.  This will r
 **Setup:**
 - Banks
 - Categories
+- Category Rules
 
 **Features:**
 - Download transactions
